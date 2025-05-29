@@ -1,0 +1,1 @@
+// 该文件将从本地message-handler.js读取内容
